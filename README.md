@@ -1,1 +1,3 @@
-# amigo-secreto
+# Alura Amigo Secreto
+
+Ejercicio Alura 
